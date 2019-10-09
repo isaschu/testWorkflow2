@@ -7,6 +7,7 @@
 #Execution environment
 
  second attempt
+<<<<<<< HEAD
 # testWorkflow2
 
 
@@ -26,3 +27,6 @@
 
 
 
+=======
+[![DOI](https://zenodo.org/badge/213928588.svg)](https://zenodo.org/badge/latestdoi/213928588)
+>>>>>>> af2c9647ba682f7d53fb4f657cf6a9c9110f43d1
